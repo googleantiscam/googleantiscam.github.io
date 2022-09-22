@@ -1,0 +1,4 @@
+// this script will be updated as new forms of scams arise
+console.log('If someone told you to enter/retrieve personal information, or copy/paste something here, you are probably being scammed.\n')
+console.log('Common forms of scams include, but are not limited to:\n  - Advance Fee Scams\n  - Tech Support Scams\n  - Phishing\n  - Emergency Scams\n  - IRS or Government Impostor Scams\n  - Foreign Money Exchange Scams\n  - Counterfeit Cashier\'s Checks\n  - Bogus Debts\n  - Home Repair Scams\n  - Business Opportunities or Employment Scams\n  - Shopping Sprees\n')
+console.log('Stay aware, and stay safe!')
